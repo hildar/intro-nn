@@ -131,3 +131,17 @@ dmypy.json
 # MAC OS files
 .DS_Store
 
+# Project files
+*.csv
+*.pdf
+*.png
+*.json
+
+# Keras files
+*/trial*
+*.h5
+*/my_dir/
+
+
+
+
