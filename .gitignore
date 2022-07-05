@@ -139,7 +139,7 @@ dmypy.json
 
 # Keras files
 */trial*
-*.h5
+# *.h5
 */my_dir/
 
 
