@@ -150,3 +150,5 @@ L7 Detection/hall.jpeg
 */aclImdb/train/*
 
 
+L8 GAN/classify_text_with_bert.ipynb
+L8 GAN/aclImdb_v1.tar.gz
