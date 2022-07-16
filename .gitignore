@@ -143,8 +143,10 @@ dmypy.json
 */my_dir/
 */~
 */clothing-*
-
-
-
-
 L7 Detection/hall.jpeg
+
+# IMDB 
+*/aclImdb/test/*
+*/aclImdb/train/*
+
+
