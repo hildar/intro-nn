@@ -134,7 +134,6 @@ dmypy.json
 # Project files
 *.csv
 *.pdf
-*.png
 *.json
 
 # Keras files
